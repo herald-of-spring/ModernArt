@@ -1,0 +1,5 @@
+{
+  "name": "Modern Art AI",
+  "description": "A web-based implementation of the board game 'Modern Art' by Reiner Knizia, where players act as museum curators buying and selling paintings. This version integrates AI to generate unique, artistic descriptions for each painting put up for auction, enhancing the thematic experience.",
+  "requestFramePermissions": []
+}
